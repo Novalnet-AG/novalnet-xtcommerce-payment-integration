@@ -18,6 +18,7 @@ Novalnet <a href="https://www.novalnet.de/">merchant account</a> is required for
 -	Changing due dates for Prepayment & Invoice payment
 -	Updating due dates on payment slips for Barzahlen payment
 -	Responsive templates<br>
+
 For detailed documentation and other technical inquiries, please send us an email at technic@novalnet.de.
 ## Integrated payment methods
 -	<a href="https://www.novalnet.de/sepa-lastschrift">Direct Debit SEPA </a>
@@ -50,6 +51,6 @@ Gutenbergstr. 2<br>
 Deutschland<br>
 Web: www.novalnet.de 
 ## Who is Novalnet AG?
-Novalnet AG is a leading financial services institution offering advanced payment gateways for processing online payments. Operating in the market as a full payment service provider, Novalnet AG was founded in Ismaning near Munich, and provides online merchants user-friendly payment integration with all major shop systems as well as with self-programmed e-commerce sites. 
-Novalnet Payment Platform offers merchants an <a href="https://www.novalnet.de/produkte"> end-to-end solution for automated payment processing </a>all the way from checkout to receivables. Our SaaS engine is <a href="https://www.novalnet.de/pci-dss-zertifizierung"> PCI DSS certified </a>and designed to enable real-time risk management, secured payments via escrow accounts, efficient receivables management, dynamic member and subscription management, customized payment solutions for various business models (e.g. marketplaces, affiliate programs etc.) and much more.  
-The experienced and international team of specialists at Novalnet is committed to support online merchants with in-depth knowledge to increase revenue and ensure secure online payments.
+<p>Novalnet AG is a leading financial services institution offering advanced payment gateways for processing online payments. Operating in the market as a full payment service provider, Novalnet AG was founded in Ismaning near Munich, and provides online merchants user-friendly payment integration with all major shop systems as well as with self-programmed e-commerce sites.</p>
+<p>Novalnet Payment Platform offers merchants an <a href="https://www.novalnet.de/produkte"> end-to-end solution for automated payment processing </a>all the way from checkout to receivables. Our SaaS engine is <a href="https://www.novalnet.de/pci-dss-zertifizierung"> PCI DSS certified </a>and designed to enable real-time risk management, secured payments via escrow accounts, efficient receivables management, dynamic member and subscription management, customized payment solutions for various business models (e.g. marketplaces, affiliate programs etc.) and much more.</p> 
+<p>The experienced and international team of specialists at Novalnet is committed to support online merchants with in-depth knowledge to increase revenue and ensure secure online payments.</p>
