@@ -3,7 +3,7 @@ Novalnet’s Payment Plugin ensures simple and secure integration of payments an
 ## Requirements 
 Novalnet <a href="https://www.novalnet.de/">merchant account</a> is required for using this Novalnet Payment Gateway for xt:Commerce. The plugin is available for the 6.x – 6.1.2 PRO version in the following languages: EN & DE. Both the PRO and FREE versions are supported by Novalnet. To learn more about the FREE version, please <a href="https://www.novalnet.de/kontakt/sales">contact us</a>.
 ## Advanced functions for payment processing
--	Easy configuration of <a href="https://www.novalnet.de/kostenlose-payment-plugins"> international and local payment methods </a>
+-	Easy configuration of <a href="https://www.novalnet.de/zahlungsabwicklung"> international and local payment methods </a>
 -	One PCI DSS certified <a href="https://www.novalnet.de/plattform">payment platform </a>for all payment services
 -	Comprehensive <a href="https://www.novalnet.de/risikomanagement"> fraud management solution with more than 60 supported modules </a>
 -	Secure SSL- encoded gateways
@@ -53,5 +53,5 @@ Deutschland<br>
 Web: www.novalnet.de 
 ## Who is Novalnet AG?
 <p>Novalnet AG is a leading financial services institution offering advanced payment gateways for processing online payments. Operating in the market as a full payment service provider, Novalnet AG was founded in Ismaning near Munich, and provides online merchants user-friendly payment integration with all major shop systems as well as with self-programmed e-commerce sites.</p>
-<p>Novalnet Payment Platform offers merchants an <a href="https://www.novalnet.de/produkte"> end-to-end solution for automated payment processing </a>all the way from checkout to receivables. Our SaaS engine is <a href="https://www.novalnet.de/pci-dss-zertifizierung"> PCI DSS certified </a>and designed to enable real-time risk management, secured payments via escrow accounts, efficient receivables management, dynamic member and subscription management, customized payment solutions for various business models (e.g. marketplaces, affiliate programs etc.) and much more.</p> 
+<p>Novalnet Payment Platform offers merchants an <a href="https://www.novalnet.de/produkte"> end-to-end solution for automated payment processing </a> all the way from checkout to receivables. Our SaaS engine is <a href="https://www.novalnet.de/pci-dss-zertifizierung"> PCI DSS certified </a>and designed to enable real-time risk management, secured payments via escrow accounts, efficient receivables management, dynamic member and subscription management, customized payment solutions for various business models (e.g. marketplaces, affiliate programs etc.) and much more.</p> 
 <p>The experienced and international team of specialists at Novalnet is committed to support online merchants with in-depth knowledge to increase revenue and ensure secure online payments.</p>
