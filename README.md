@@ -43,7 +43,8 @@ Easy installation of Novalnet Payment Plugin for xt:Commerce will be done throug
 ## License  
 See our License Agreement at: https://www.novalnet.de/payment-plugins/kostenlos/lizenz 
 ## Documentation & Support
-For more information about the Novalnet Payment Plugin for xt:Commerce and prizing, please get in touch with us: sales@novalnet.de or +49 89 9230683-20
+For more information about the Novalnet Payment Plugin for xt:Commerce and prizing, please get in touch with us: sales@novalnet.de or +49 89 9230683-20<br>
+
 Novalnet AG<br>
 Zahlungsinstitut (ZAG) <br>
 Gutenbergstr. 2<br>
