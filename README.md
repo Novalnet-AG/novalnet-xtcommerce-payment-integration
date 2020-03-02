@@ -50,8 +50,8 @@ For more information about the Novalnet Payment Plugin for xt:Commerce, please g
 
 Novalnet AG<br>
 Zahlungsinstitut (ZAG) <br>
-Gutenbergstr. 2<br>
-85737 Ismaning<br>
+Feringastr. 4<br>
+85774 Unterföhring<br>
 Deutschland<br>
 Web: www.novalnet.de 
 ## Who is Novalnet AG?
