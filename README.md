@@ -1,7 +1,7 @@
 # NOVALNET PAYMENT INTEGRATION FOR XT:COMMERCE
 Novalnet’s Payment Plugin ensures simple and secure integration of payments and payment services for xt:Commerce shops, allowing shop owners to automate the entire payment process from checkout till collection. 
 ## Requirements 
-Novalnet <a href="https://www.novalnet.de/">merchant account</a> is required for using this Novalnet Payment Gateway for xt:Commerce. The plugin is available for the 6.x – 6.1.2 PRO version in the following languages: EN & DE. Both the PRO and FREE versions are supported by Novalnet. To learn more about the FREE version, please <a href="https://www.novalnet.de/kontakt/sales">contact us</a>.
+Novalnet <a href="https://www.novalnet.de/">merchant account</a> is required for using this Novalnet Payment Gateway for xt:Commerce. The plugin is available for the 6.x – 6.2.2 PRO version in the following languages: EN & DE.
 
 Also xt:Commerce 3,4,5 are supported by Novalnet. More information can be found here: <a href="https://www.novalnet.de/modul/xtcommerce-payment-module">here</a>
 
@@ -44,7 +44,7 @@ Easy installation of Novalnet Payment Plugin for xt:Commerce will be done throug
 3.	Configure Product Activation Key in the shop admin panel 
 4.	Activate & configure the preferred payment types in your shop admin panel
 ## License  
-See our License Agreement at: https://www.novalnet.de/payment-plugins/kostenlos/lizenz 
+See our License Agreement at: https://www.novalnet.com/payment-plugins/free/license
 ## Documentation & Support
 For more information about the Novalnet Payment Plugin for xt:Commerce, please get in touch with us: sales@novalnet.de or +49 89 9230683-20<br>
 
