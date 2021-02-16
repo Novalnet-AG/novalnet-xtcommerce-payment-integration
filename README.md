@@ -12,31 +12,31 @@ Also xt:Commerce 3,4,5 are supported by Novalnet. More information can be found 
 -	Secure SSL- encoded gateways
 -	Credit Card iframe integration with custom CSS configuration 
 -	Credit Card with 3D Secure
--	One-click shopping supported
--	Proxy server configuration
--	Setting a time limit for orders & automatic order cancellation when limit is exceeded
+-	One-click shopping
+-	Automated e-mail notifications for staying up to date on the payment status
 -	Easy confirmation & cancellation of on-hold transactions
 -	Refund option for various payment types
 -	Updating transaction amounts for Direct Debit SEPA, Invoice, Prepayment & Barzahlen
 -	Changing due dates for Prepayment & Invoice payment
 -	Updating due dates on payment slips for Barzahlen payment
+- Automated bookkeeping report in XML, SOAP, CSV, MT940
 -	Responsive templates<br>
 
 For detailed documentation and other technical inquiries, please send us an email at technic@novalnet.de.
 ## Integrated payment methods
--	<a href="https://www.novalnet.de/sepa-lastschrift">Direct Debit SEPA </a>
--	<a href="https://www.novalnet.de/zahlungsart-kreditkarte">Credit Card </a> (3D Secure & non 3D Secure)
--	<a href="https://www.novalnet.de/kauf-auf-rechnung-online-payment">Invoice</a>
--	<a href="https://www.novalnet.de/vorkasse-internet-payment">Prepayment</a>
--	<a href="https://www.novalnet.de/barzahlen">Barzahlen</a>
--	<a href="https://www.novalnet.de/online-ueberweisung-sofortueberweisung">Instant Bank Transfer</a>
--	<a href="https://www.novalnet.de/mit-paypal-weltweit-sicher-verkaufen">PayPal</a>
--	<a href="https://www.novalnet.de/ideal-online-ueberweisung">iDEAL</a>
--	<a href="https://www.novalnet.de/eps-online-ueberweisung">eps</a>
--	<a href="https://www.novalnet.de/giropay">giropay</a>
--	<a href="https://www.novalnet.de/przelewy24">Przelewy24</a>
--	<a href="https://www.novalnet.de/lastschrift-mit-zahlungsgarantie">Direct Debit SEPA with payment guarantee</a>
--	<a href="https://www.novalnet.de/kauf-auf-rechnung-100-prozent-zahlungsgarantie">Invoice with payment guarantee</a>
+-	Direct Debit SEPA
+-	Credit Card/Debit Card
+-	Invoice
+-	Prepayment
+-	Barzahlen/viacash
+-	Sofort
+-	PayPal
+-	iDEAL
+-	eps
+-	giropay
+-	Przelewy24
+-	Direct Debit SEPA with payment guarantee
+-	Invoice with payment guarantee
 ## Installation
 Easy installation of Novalnet Payment Plugin for xt:Commerce will be done through the following steps: 
 1.	Get the payment plugin & detailed documentation by<a href="https://www.novalnet.de/kontakt/sales"> contacting us </a>
